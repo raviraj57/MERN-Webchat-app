@@ -1,0 +1,1 @@
+# Snappy - Chat Application
